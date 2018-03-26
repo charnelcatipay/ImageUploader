@@ -4,8 +4,10 @@
              xmlns:local="clr-namespace:ImageUploader"
              x:Class="ImageUploader.MainPage">
 
-	<Label Text="Welcome to Xamarin.Forms!" 
-           VerticalOptions="Center" 
-           HorizontalOptions="Center" />
+    <StackLayout>
+        <Button Text="Select a picture"
+                Clicked="SelectImageButton_clicked"/>
+        <Image x:Name="selectedImage"/>
+    </StackLayout>
 
 </ContentPage>

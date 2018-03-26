@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageUploader.Android", "Im
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageUploader.iOS", "ImageUploader\ImageUploader.iOS\ImageUploader.iOS.csproj", "{2BD71192-475B-4065-B530-9E69D20822E1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageUploader", "ImageUploader\ImageUploader\ImageUploader.csproj", "{9E064180-7D7A-441C-A0C4-735508E0E1A8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ImageUploader", "ImageUploader\ImageUploader\ImageUploader.csproj", "{9E064180-7D7A-441C-A0C4-735508E0E1A8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
